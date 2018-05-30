@@ -9,6 +9,15 @@ sys.path.append(RootDir)
 from pyirt.algo import update_theta_distribution
 
 
+
+
+
+
+
+
+
+
+
 class TestUpdateThetaDistribution(unittest.TestCase):
 
     def setUp(self):
